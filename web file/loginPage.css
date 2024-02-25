@@ -1,0 +1,19 @@
+body {
+    /* background-image: url(new.jpeg); */
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+
+.box{
+    /* background-image: url(LoginPageBackground.jpeg); */
+    background-color: azure;
+    background-size: cover;
+    margin-top: 50px;
+    border: 5px solid black ;
+    border-style: groove;
+    width: 300px;
+    padding-bottom: 20px;
+    background-color:antiquewhite;
+    border-radius: 20px;
+}
